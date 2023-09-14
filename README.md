@@ -1,1 +1,1 @@
-# tokyo-olympic-data
+# tokyo-olympic-azure-data-engineering-project
